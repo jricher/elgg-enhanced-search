@@ -1,0 +1,1 @@
+A rewrite of the search system for the Elgg social networking engine, from elgg.org. This repository being set up to facilitate development of the new system, which will be released as a patch to the baseline Elgg core.
